@@ -444,8 +444,8 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
 }
 
 .tabCommon .nav-tabs li.active a {
-  background-color: #655E7A;
-  border: 1px solid #655E7A;
+  background-color: #2a115f;
+  border: 1px solid #2a115f;
   color: #ffffff;
 }
 
@@ -456,7 +456,7 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
 
 .tabCommon .nav-tabs a:hover {
   border: 1px solid transparent;
-  background: #655E7A;
+  background: #2a115f;
   color: #fff;
 }
 
