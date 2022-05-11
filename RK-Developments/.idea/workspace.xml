@@ -2,44 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46888e5e-8e74-471d-b475-7fb60bd01329" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/logos/Colored Logo Files/Grayscale Transparent.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logos/Colored Logo Files/Original Logo Edited.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logos/Colored Logo Files/Original Logo Symbol.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logos/Colored Logo Files/Original Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logos/Colored Logo Files/Transparent Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logos/Favicon/Favicon Original.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logos/Favicon/Favicon Transparent.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logos/Favicon/Wordpress Transparent.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logos/Favicon/Wordpress.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logos/PDF Guideline.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logos/SVG Vector Files/Grayscale Transparent.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logos/SVG Vector Files/Original Logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logos/SVG Vector Files/Transparent Logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logos/Social Media Kit/Etsy/Etsy Big Shop Banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logos/Social Media Kit/Etsy/Etsy Cover Image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logos/Social Media Kit/Etsy/Etsy Mini Shop Banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logos/Social Media Kit/Etsy/Etsy Profile Image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logos/Social Media Kit/Etsy/Etsy Shop Icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logos/Social Media Kit/Facebook/Facebook Cover Image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logos/Social Media Kit/Facebook/Facebook Profile Image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logos/Social Media Kit/Instagram/Instagram Profile Image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logos/Social Media Kit/LinkedIn/LinkedIn Background Photo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logos/Social Media Kit/LinkedIn/LinkedIn Company Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logos/Social Media Kit/LinkedIn/LinkedIn Cover Photo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logos/Social Media Kit/Pinterest/Pinterest Profile Image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logos/Social Media Kit/Twitter/Twitter Header Image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logos/Social Media Kit/Twitter/Twitter Profile Image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logos/Social Media Kit/Youtube/Youtube Cover Image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logos/Social Media Kit/Youtube/Youtube Profile Image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logos/Zoom Backgrounds/Zoom Background (black).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logos/Zoom Backgrounds/Zoom Background (original).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logos/Zoom Backgrounds/Zoom Background (white).png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design.html" beforeDir="false" afterPath="$PROJECT_DIR$/design.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pricing.html" beforeDir="false" afterPath="$PROJECT_DIR$/pricing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/templates/_header.scss" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,11 +35,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\RK-Developments\RK-Developments\scss\templates" />
       <recent name="C:\RK-Developments\RK-Developments\templates\example-3" />
       <recent name="C:\RK-Developments\RK-Developments" />
     </key>
@@ -92,7 +56,8 @@
       <workItem from="1652217994897" duration="768000" />
       <workItem from="1652218833543" duration="920000" />
       <workItem from="1652266036916" duration="9000" />
-      <workItem from="1652270536542" duration="12222000" />
+      <workItem from="1652270536542" duration="12520000" />
+      <workItem from="1652288961656" duration="10000" />
     </task>
     <servers />
   </component>
