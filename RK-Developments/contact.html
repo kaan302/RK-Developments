@@ -84,22 +84,26 @@
 <section class="contact-form">
     <div class="container">
         <div class="row">
-            <form id="contact-form">
+            <form action="https://formspree.io/f/xjvljwbe" method="POST">
                 <div class="col-md-6 col-sm-12">
                     <div class="block">
-                        <div class="form-group">
-                            <input name="user_name" type="text" class="form-control" placeholder="Your Name">
-                        </div>
-                        <div class="form-group">
-                            <input name="user_email" type="text" class="form-control" placeholder="Email Address">
-                        </div>
-                        <div class="form-group">
-                            <input name="user_subject" type="text" class="form-control" placeholder="Subject">
-                        </div>
-                        <div class="form-group">
-                            <textarea name="user_message" class="form-control" rows="4"
+                        <label style="width: 555px">
+                            Username:
+                            <input id="username" name="Username" type="text" class="form-control" placeholder="Your Name">
+                        </label>
+                        <label style="width: 555px">
+                            Email:
+                            <input id="email" name="Email" type="email" class="form-control" placeholder="Email Address">
+                        </label>
+                        <label style="width: 555px">
+                            Subject:
+                        <input id="subject" name="Subject" type="text" class="form-control" placeholder="Subject">
+                        </label>
+                        <label style="width: 555px">
+                            Message:
+                            <textarea id="message" name="Message" class="form-control" rows="4"
                                       placeholder="Your Message"></textarea>
-                        </div>
+                        </label>
                         <button class="btn btn-default" type="submit">Send Message</button>
                     </div>
                 </div>
@@ -107,9 +111,6 @@
                     <div class="block" id="info">
                         <h2>Info</h2>
                         <ul class="address-block">
-<!--                            <li>-->
-<!--                                <i class="ion-ios-location-outline"></i>North Main Street,Brooklyn Australia-->
-<!--                            </li>-->
                             <li>
                                 <i class="ion-ios-email-outline"></i>Email: rk-developments@outlook.com
                             </li>
@@ -144,12 +145,14 @@
         </div>
     </div>
 </section>
+
+
 <!-- footer Start -->
 <footer class="footer">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				<p class="copyright">Copyright 2022 &copy; Design & Developed by Kaan Ugur from R&K-Developments</a>. All rights reserved.
+				<p class="copyright">Copyright 2022 &copy; Design & Developed by Kaan Ugur from R&K-Developments. All rights reserved.
 					<br>
 				</p>
 			</div>
@@ -183,5 +186,4 @@
     <script src="js/script.js"></script>
 
     </body>
-
     </html>

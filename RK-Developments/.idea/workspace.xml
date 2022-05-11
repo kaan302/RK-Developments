@@ -2,344 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46888e5e-8e74-471d-b475-7fb60bd01329" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/images/design/example-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/design/example-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/design/example-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/css/icomoon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/css/simple-line-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/css/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/fonts/bootstrap/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/fonts/bootstrap/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/fonts/bootstrap/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/fonts/bootstrap/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/fonts/bootstrap/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/fonts/icomoon/icomoon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/fonts/icomoon/icomoon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/fonts/icomoon/icomoon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/fonts/icomoon/icomoon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/fonts/icomoon/icomoon/Read Me.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/fonts/icomoon/icomoon/demo-files/demo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/fonts/icomoon/icomoon/demo-files/demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/fonts/icomoon/icomoon/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/fonts/icomoon/icomoon/fonts/icomoon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/fonts/icomoon/icomoon/fonts/icomoon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/fonts/icomoon/icomoon/fonts/icomoon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/fonts/icomoon/icomoon/fonts/icomoon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/fonts/icomoon/icomoon/selection.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/fonts/icomoon/icomoon/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/fonts/simple-line-icons/Simple-Line-Icons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/fonts/simple-line-icons/Simple-Line-Icons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/fonts/simple-line-icons/Simple-Line-Icons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/fonts/simple-line-icons/Simple-Line-Icons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/fonts/simple-line-icons/Simple-Line-Icons.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/images/user.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/images/user_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/images/user_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/images/work_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/images/work_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/images/work_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/images/work_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/js/jquery.easing.1.3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/js/jquery.waypoints.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/js/modernizr-2.6.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/js/respond.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/left-sidebar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/right-sidebar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/_bootstrap-compass.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/_bootstrap-mincer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/_bootstrap-sprockets.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/_bootstrap.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_alerts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_badges.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_breadcrumbs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_button-groups.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_carousel.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_close.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_code.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_component-animations.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_dropdowns.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_glyphicons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_input-groups.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_jumbotron.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_labels.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_media.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_modals.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_navs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_normalize.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_pager.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_panels.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_popovers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_print.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_progress-bars.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_responsive-embed.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_responsive-utilities.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_scaffolding.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_tables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_theme.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_thumbnails.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_tooltip.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_type.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_utilities.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/_wells.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/mixins/_alerts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/mixins/_background-variant.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/mixins/_border-radius.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/mixins/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/mixins/_center-block.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/mixins/_clearfix.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/mixins/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/mixins/_gradients.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/mixins/_grid-framework.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/mixins/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/mixins/_hide-text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/mixins/_image.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/mixins/_labels.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/mixins/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/mixins/_nav-divider.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/mixins/_nav-vertical-align.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/mixins/_opacity.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/mixins/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/mixins/_panels.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/mixins/_progress-bar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/mixins/_reset-filter.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/mixins/_reset-text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/mixins/_resize.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/mixins/_responsive-visibility.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/mixins/_size.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/mixins/_tab-focus.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/mixins/_table-row.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/mixins/_text-emphasis.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/mixins/_text-overflow.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/bootstrap/mixins/_vendor-prefixes.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-4/sass/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/css/blue.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/css/blue.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/css/icomoon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/css/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/fonts/bootstrap/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/fonts/bootstrap/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/fonts/bootstrap/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/fonts/bootstrap/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/fonts/bootstrap/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/fonts/icomoon/icomoon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/fonts/icomoon/icomoon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/fonts/icomoon/icomoon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/fonts/icomoon/icomoon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/images/about.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/images/bg_img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/images/profile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/js/jquery.easing.1.3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/js/jquery.easypiechart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/js/jquery.magnific-popup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/js/jquery.waypoints.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/js/modernizr-2.6.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/js/respond.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/_bootstrap-compass.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/_bootstrap-mincer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/_bootstrap-sprockets.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/blue.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_alerts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_badges.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_breadcrumbs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_button-groups.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_carousel.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_close.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_code.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_component-animations.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_dropdowns.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_glyphicons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_input-groups.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_jumbotron.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_labels.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_media.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_modals.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_navs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_normalize.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_pager.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_panels.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_popovers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_print.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_progress-bars.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_responsive-embed.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_responsive-utilities.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_scaffolding.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_tables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_theme.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_thumbnails.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_tooltip.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_type.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_utilities.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/_wells.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/mixins/_alerts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/mixins/_background-variant.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/mixins/_border-radius.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/mixins/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/mixins/_center-block.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/mixins/_clearfix.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/mixins/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/mixins/_gradients.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/mixins/_grid-framework.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/mixins/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/mixins/_hide-text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/mixins/_image.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/mixins/_labels.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/mixins/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/mixins/_nav-divider.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/mixins/_nav-vertical-align.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/mixins/_opacity.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/mixins/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/mixins/_panels.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/mixins/_progress-bar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/mixins/_reset-filter.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/mixins/_reset-text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/mixins/_resize.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/mixins/_responsive-visibility.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/mixins/_size.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/mixins/_tab-focus.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/mixins/_table-row.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/mixins/_text-emphasis.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/mixins/_text-overflow.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/bootstrap/mixins/_vendor-prefixes.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-5/sass/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/css/nivo-lightbox/close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/css/nivo-lightbox/close@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/css/nivo-lightbox/default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/css/nivo-lightbox/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/css/nivo-lightbox/loading@2x.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/css/nivo-lightbox/next.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/css/nivo-lightbox/next@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/css/nivo-lightbox/nivo-lightbox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/css/nivo-lightbox/prev.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/css/nivo-lightbox/prev@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/font-awesome/less/animated.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/font-awesome/less/bordered-pulled.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/font-awesome/less/core.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/font-awesome/less/fixed-width.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/font-awesome/less/font-awesome.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/font-awesome/less/icons.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/font-awesome/less/larger.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/font-awesome/less/list.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/font-awesome/less/mixins.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/font-awesome/less/path.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/font-awesome/less/rotated-flipped.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/font-awesome/less/stacked.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/font-awesome/less/variables.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/font-awesome/scss/_animated.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/font-awesome/scss/_bordered-pulled.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/font-awesome/scss/_core.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/font-awesome/scss/_fixed-width.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/font-awesome/scss/_icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/font-awesome/scss/_larger.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/font-awesome/scss/_list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/font-awesome/scss/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/font-awesome/scss/_path.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/font-awesome/scss/_rotated-flipped.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/font-awesome/scss/_stacked.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/font-awesome/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/font-awesome/scss/font-awesome.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/fonts/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/img/about.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/img/intro-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/img/portfolio/01-large.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/img/portfolio/01-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/img/portfolio/02-large.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/img/portfolio/02-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/img/portfolio/03-large.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/img/portfolio/03-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/img/portfolio/04-large.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/img/portfolio/04-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/img/portfolio/05-large.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/img/portfolio/05-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/img/portfolio/06-large.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/img/portfolio/06-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/img/portfolio/07-large.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/img/portfolio/07-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/img/portfolio/08-large.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/img/portfolio/08-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/img/portfolio/09-large.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/img/portfolio/09-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/img/services/service-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/img/services/service-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/img/services/service-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/img/services/service-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/img/services/service-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/img/services/service-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/img/testimonials/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/img/testimonials/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/img/testimonials/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/img/testimonials/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/img/testimonials/05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/img/testimonials/06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/js/SmoothScroll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/js/contact_me.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/js/jqBootstrapValidation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/js/jquery.1.11.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/example-6/js/nivo-lightbox.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/RK-Developments.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logos/Colored Logo Files/Grayscale Transparent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logos/Colored Logo Files/Original Logo Edited.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logos/Colored Logo Files/Original Logo Symbol.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logos/Colored Logo Files/Original Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logos/Colored Logo Files/Transparent Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logos/Favicon/Favicon Original.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logos/Favicon/Favicon Transparent.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logos/Favicon/Wordpress Transparent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logos/Favicon/Wordpress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logos/PDF Guideline.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logos/SVG Vector Files/Grayscale Transparent.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logos/SVG Vector Files/Original Logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logos/SVG Vector Files/Transparent Logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logos/Social Media Kit/Etsy/Etsy Big Shop Banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logos/Social Media Kit/Etsy/Etsy Cover Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logos/Social Media Kit/Etsy/Etsy Mini Shop Banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logos/Social Media Kit/Etsy/Etsy Profile Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logos/Social Media Kit/Etsy/Etsy Shop Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logos/Social Media Kit/Facebook/Facebook Cover Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logos/Social Media Kit/Facebook/Facebook Profile Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logos/Social Media Kit/Instagram/Instagram Profile Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logos/Social Media Kit/LinkedIn/LinkedIn Background Photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logos/Social Media Kit/LinkedIn/LinkedIn Company Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logos/Social Media Kit/LinkedIn/LinkedIn Cover Photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logos/Social Media Kit/Pinterest/Pinterest Profile Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logos/Social Media Kit/Twitter/Twitter Header Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logos/Social Media Kit/Twitter/Twitter Profile Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logos/Social Media Kit/Youtube/Youtube Cover Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logos/Social Media Kit/Youtube/Youtube Profile Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logos/Zoom Backgrounds/Zoom Background (black).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logos/Zoom Backgrounds/Zoom Background (original).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logos/Zoom Backgrounds/Zoom Background (white).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/design.html" beforeDir="false" afterPath="$PROJECT_DIR$/design.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/item-img1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/item-img1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service.html" beforeDir="false" afterPath="$PROJECT_DIR$/service.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pricing.html" beforeDir="false" afterPath="$PROJECT_DIR$/pricing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/templates/_header.scss" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -380,7 +92,7 @@
       <workItem from="1652217994897" duration="768000" />
       <workItem from="1652218833543" duration="920000" />
       <workItem from="1652266036916" duration="9000" />
-      <workItem from="1652270536542" duration="4929000" />
+      <workItem from="1652270536542" duration="12222000" />
     </task>
     <servers />
   </component>
