@@ -6,6 +6,8 @@ body {
   line-height: 1.5;
   font-family: "Roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
+  margin: 0;
+  padding: 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -651,10 +653,26 @@ header {
 header .navbar {
   margin-bottom: 0px;
   border: 0px;
+  height: 100%;
 }
 
-header .navbar-brand {
-  padding-top: 5px;
+header .navbar-brand img {
+  width: 200px;
+  height: 130px;
+  position: relative;
+  top: -150%;
+  padding: 5%;
+}
+
+@media (max-width: 990px) {
+  header .navbar-brand img {
+    width: 200px;
+    height: 130px;
+    position: relative;
+    top: -80%;
+    left: -40%;
+    padding: 5%;
+  }
 }
 
 header .navbar-default {
