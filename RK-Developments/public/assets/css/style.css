@@ -669,8 +669,19 @@ header .navbar-brand img {
     width: 200px;
     height: 130px;
     position: relative;
-    top: -80%;
+    top: -50%;
     left: -40%;
+    padding: 5%;
+  }
+}
+
+@media (max-width: 767px) {
+  header .navbar-brand img {
+    width: 200px;
+    height: 130px;
+    position: relative;
+    top: -140%;
+    left: -25%;
     padding: 5%;
   }
 }
