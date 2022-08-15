@@ -2,7 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a4568aa-e431-4715-8b8e-e689c545cb35" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/assets/css/images/ie/grad0-15.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/assets/css/images/overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/assets/js/breakpoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/assets/js/browser.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/assets/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/assets/js/jquery.scrollex.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/assets/js/jquery.scrolly.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/assets/js/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/assets/sass/libs/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/assets/sass/libs/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/assets/sass/libs/_html-grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/assets/sass/libs/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/assets/sass/libs/_vars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/assets/sass/libs/_vendor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/assets/sass/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/assets/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/assets/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/assets/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/assets/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/assets/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/assets/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/assets/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/assets/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/assets/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/assets/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/assets/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/assets/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/assets/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/assets/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/assets/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/images/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/images/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/images/pic02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/images/pic03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/images/pic04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/images/pic05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/images/pic06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/images/pic07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/images/pic08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orders/TylerSmith1984/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,13 +75,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Orders/TylerSmith1984" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\R&amp;K Developments\Orders\TylerSmith1984" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -64,7 +113,7 @@
       <workItem from="1652288973026" duration="1270000" />
       <workItem from="1652295937457" duration="1316000" />
       <workItem from="1652621902720" duration="70000" />
-      <workItem from="1660571909027" duration="147000" />
+      <workItem from="1660571909027" duration="2632000" />
     </task>
     <servers />
   </component>
