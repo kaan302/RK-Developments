@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a4568aa-e431-4715-8b8e-e689c545cb35" name="Changes" comment="" />
+    <list default="true" id="6a4568aa-e431-4715-8b8e-e689c545cb35" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +24,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="27vgqYeqc0AR1SYm4f2ZY5iK0mI" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -62,6 +64,7 @@
       <workItem from="1652288973026" duration="1270000" />
       <workItem from="1652295937457" duration="1316000" />
       <workItem from="1652621902720" duration="70000" />
+      <workItem from="1660571909027" duration="147000" />
     </task>
     <servers />
   </component>
