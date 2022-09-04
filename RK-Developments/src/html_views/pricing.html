@@ -25,9 +25,9 @@
   <link rel="stylesheet" href="assets/plugins/magnific-popup/magnific-popup.css">
   <!-- Owl Carousel CSS -->
   <link rel="stylesheet" href="assets/plugins/slick/slick.css">
-  
   <!-- Main Stylesheet -->
   <link rel="stylesheet" href="assets/css/style.css">
+	<link rel="stylesheet" href="assets/css/pricing.css">
 
 </head>
 
@@ -212,6 +212,91 @@
 			</div>
 		</div>
 	</div>
+</section>
+
+<section class="faq section-sm ">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<h2 class="text-center">Here is some feedback that we have received</h2>
+			</div>
+		</div>
+		<div class="row mt-30">
+			<div class="col-md-6">
+				<div class="rating-given">
+					<label for="4">☆</label> <input type="radio" name="rating" value="3">
+					<label for="3">☆</label> <input type="radio" name="rating" value="2">
+					<label for="2">☆</label> <input type="radio" name="rating" value="1">
+					<label for="1">☆</label>
+				</div>
+				<p>It is totally up to you, you can pay upfront, or you can pay when the product is finished.</p>
+			</div>
+			<div class="col-md-6">
+				<div class="rating-given">
+					<input type="radio" name="rating-given" value="5">
+					<label for="5">☆</label> <input type="radio" name="rating" value="4">
+					<label for="4">☆</label> <input type="radio" name="rating" value="3">
+					<label for="3">☆</label> <input type="radio" name="rating" value="2">
+					<label for="2">☆</label> <input type="radio" name="rating" value="1">
+					<label for="1">☆</label>
+				</div>
+				<p>Yes volume discounts are available. If you are planning to buy multiple applications contact us, so we can help you further. </p>
+			</div>
+			<div class="col-md-6">
+				<div class="rating-given">
+					<input type="radio" name="rating-given" value="5">
+					<label for="3">☆</label> <input type="radio" name="rating" value="2">
+					<label for="2">☆</label> <input type="radio" name="rating" value="1">
+					<label for="1">☆</label>
+				</div>
+				<p>you can change the design as often as you want but you must indicate it before we start developing the application.
+					We only deliver the source code, if you want us to put your site online you have to contact us.</p>
+			</div>
+			<div class="col-md-6">
+				<div class="rating-given">
+					<input type="radio" name="rating-given" value="5">
+					<label for="3">☆</label> <input type="radio" name="rating" value="2">
+					<label for="2">☆</label> <input type="radio" name="rating" value="1">
+					<label for="1">☆</label>
+				</div>
+				<p>No, you can contact us anytime you want. If you send an email, we will try to respond within 24 hours.</p>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="faq section-sm">
+	<div class="container">
+		<div class="row">
+			<div class="pricing-item text-center">
+				<!-- plan name & value -->
+				<div class="price-title">
+					<h3>Share your experience with us!</h3>
+				</div>
+				<!-- /plan name & value -->
+				<form method="POST" action="/post-feedback">
+					<!-- plan description -->
+					<div class="rating">
+						<input type="radio" name="rating" value="5" id="5">
+						<label for="5">☆</label> <input type="radio" name="rating" value="4" id="4">
+						<label for="4">☆</label> <input type="radio" name="rating" value="3" id="3">
+						<label for="3">☆</label> <input type="radio" name="rating" value="2" id="2">
+						<label for="2">☆</label> <input type="radio" name="rating" value="1" id="1">
+						<label for="1">☆</label>
+					</div>
+
+					<div class="feedback text-center">
+						<textarea id="feedback" placeholder="Write your feedback here..."></textarea>
+					</div>
+					<!-- Contact Us button -->
+					<input class="btn btn-small" type="submit" value="Submit">
+				</form>
+			</div>
+		</div>
+
+	</div>
+
+
 </section>
 
 
